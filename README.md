@@ -1,6 +1,6 @@
 # Proyecto de inventario
 
-_Este proyecto esta desarrollado con fines educativos, y funciona de la siguiente manera: Un usurio inicia sesion que se maneja con una sesion basicamente guarda una **Cookie** en el navegador del cliente para que recuerde la sesion en las distintas rutas que maneja el servidor, luego el usuario puede hacer una compra que se guarda en una compra temporal de la cual el usuario puede terminar en cualquier momento, preguntara si desea guardar una vista previa de la factura correspondiente o si solo desea continuar, y las compras que realize se guardaran en un apartado de compras que es donde se guardaran todos los registros de compras._
+_Este proyecto esta desarrollado con fines educativos, y funciona de la siguiente manera: Un usuario inicia sesion la cual maneja una **Cookie** que se guarda en el navegador del cliente para que recuerde que el navegador sepa que hay un usuario registrado y no se pierda la sesión en las distintas rutas que maneja el servidor, luego el usuario puede hacer una compra que se guarda en un registro temporal de la cual el usuario puede terminar en cualquier momento, preguntara si desea guardar una vista previa de la factura correspondiente en formato PDF o si solo desea continuar, y las compras que realize se guardan en un historial de compras que es donde estarán todos los registros de compras._
 
 ## Comenzando 🚀
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
